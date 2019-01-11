@@ -1,4 +1,4 @@
-package com.company;
+package com.stackroute.pe4;
 
 public class ReplacingChar {
     public String replaceChar(String str) {

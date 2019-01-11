@@ -1,4 +1,4 @@
-package com.company;
+package com.stackroute.pe4;
 
 import org.junit.After;
 import org.junit.Before;
@@ -68,8 +68,4 @@ public class OccuranceOfStringCheck {
         actualValue=occuranceOfString.occuranceOfChar(inputCharTwo,inputStringTwo);
         assertEquals(expectedValue,actualValue);
     }
-
-
-
-
 }
